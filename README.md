@@ -1,7 +1,5 @@
 
 # Travel Booking Management System
-This project is co-owned by: [@chahelgupta](https://www.github.com/chahelgupta) [@amishidesai](https://www.github.com/AmishiDesai04) [@reneeka](https://www.github.com/reneeka)
-
 ## Introduction
 
 Welcome to the Travel Booking Management System! In today's fast-paced world of travel, efficient booking management is essential for ensuring smooth journeys and satisfied customers. Our system is designed to address the complexities of the travel industry by providing a comprehensive solution for booking various modes of transportation.
